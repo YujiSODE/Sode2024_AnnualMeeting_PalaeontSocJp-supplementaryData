@@ -1,0 +1,36 @@
+
+
+*******************************************************************************
+Sun Oct 29 08:22:58 2023
+
+
+FIT:    data read from './sampling_(3x-2)^2*Qp20%_2023-Oct-27-15:18:41_full.data'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=(A*x+B)**3
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 7.0353242439e+04   0.00e+00  2.04e+02    1.000000e+00   1.000000e+00
+   4 1.2275665507e+04  -1.23e-03  2.04e-02    9.501170e-01   8.196346e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 12275.7
+rel. change during last iteration : -1.23121e-08
+
+degrees of freedom    (FIT_NDF)                        : 98
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 11.192
+variance of residuals (reduced chisquare) = WSSR/ndf   : 125.262
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.950117         +/- 0.02696      (2.838%)
+B               = 0.819635         +/- 0.1124       (13.72%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.985  1.000 
