@@ -29,3 +29,6 @@ Every point is plot of the generated data set from a model which is `(3x-2)^2` w
 Every line is result of curve fitting using the least squares method.
 ___
 
+## Reference
+- Sode, Y., 2024: Applicability of Random Simulation to the Evaluation of Interpolation. On the 2024 Annual Meeting. The Palaeontological Society of Japan, Abstract, p.?? 
+
