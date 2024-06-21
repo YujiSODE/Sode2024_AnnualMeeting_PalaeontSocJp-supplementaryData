@@ -30,5 +30,5 @@ Every line is result of curve fitting using the least squares method.
 ___
 
 ## Reference
-- Sode, Y., 2024: Applicability of Random Simulation to the Evaluation of Interpolation. on the 2024 Annual Meeting. _Palaeontological_ _Society_ _of_ _Japan_, Abstracts with Programs, P72-C, p.53. 
+- Sode, Y., 2024: Applicability of Random Simulation to the Evaluation of Interpolation. on the 2024 Annual Meeting. _Palaeontological_ _Society_ _of_ _Japan_, Abstracts with Programs, P72-C, p. 53. 
 
